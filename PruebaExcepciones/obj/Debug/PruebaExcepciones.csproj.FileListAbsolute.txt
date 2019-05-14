@@ -1,0 +1,7 @@
+C:\Users\Yesica Moreno\source\repos\PruebaExcepciones\PruebaExcepciones\bin\Debug\PruebaExcepciones.exe.config
+C:\Users\Yesica Moreno\source\repos\PruebaExcepciones\PruebaExcepciones\bin\Debug\PruebaExcepciones.exe
+C:\Users\Yesica Moreno\source\repos\PruebaExcepciones\PruebaExcepciones\bin\Debug\PruebaExcepciones.pdb
+C:\Users\Yesica Moreno\source\repos\PruebaExcepciones\PruebaExcepciones\obj\Debug\PruebaExcepciones.csprojAssemblyReference.cache
+C:\Users\Yesica Moreno\source\repos\PruebaExcepciones\PruebaExcepciones\obj\Debug\PruebaExcepciones.csproj.CoreCompileInputs.cache
+C:\Users\Yesica Moreno\source\repos\PruebaExcepciones\PruebaExcepciones\obj\Debug\PruebaExcepciones.exe
+C:\Users\Yesica Moreno\source\repos\PruebaExcepciones\PruebaExcepciones\obj\Debug\PruebaExcepciones.pdb
